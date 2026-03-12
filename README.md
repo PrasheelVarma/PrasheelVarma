@@ -27,7 +27,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-1E88E5?style=flat-square&logo=google-chrome&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-2D2D2D?style=flat-square&logo=markdown&logoColor=white)
 
 </td>
 </tr>
