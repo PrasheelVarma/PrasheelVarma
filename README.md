@@ -12,7 +12,7 @@
 
 
 # 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=%23FF7139)](https://prasheel-007.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasheel-datla) [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/prasheel_varma) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Prasheel_Varma) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pvdatla23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=%23FF7139)](https://prasheelvarma.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasheel-datla) [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/prasheel_varma) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Prasheel_Varma) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pvdatla23@gmail.com)
 
 # 🧰 Tech Stack
 
@@ -110,32 +110,32 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasheel-007&theme=gruvbox" alt="Profile Details" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=prasheel-007&theme=gruvbox&hide_border=false" alt=Streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasheelvarma&theme=gruvbox" alt="Profile Details" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=prasheelvarma&theme=gruvbox&hide_border=false" alt=Streak"/>
 </div>
 
 # 📊 GitHub Insights
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasheel-007&theme=gruvbox" alt="Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasheelvarma&theme=gruvbox" alt="Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prasheel-007&theme=gruvbox&layout=compact&hide_border=false" height="165" alt="Most Used Languages" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=prasheel-007&show_icons=true&theme=gruvbox&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prasheelvarma&theme=gruvbox&layout=compact&hide_border=false" height="165" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=prasheelvarma&show_icons=true&theme=gruvbox&hide_border=false" height="165" alt="GitHub Stats" />
 </div>
 
-# 📈 Contribution Graph ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasheel-007&theme=merko)
+# 📈 Contribution Graph ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasheelvarma&theme=merko)
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prasheel-007&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=prasheelvarma&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 # 🌌 Universe
 
-<img src="https://raw.githubusercontent.com/prasheel-007/prasheel-007/main/assets/universe.svg" />
+<img src="https://raw.githubusercontent.com/prasheelvarma/prasheelvarma/main/assets/universe.svg" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prasheel-007&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=prasheelvarma&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
