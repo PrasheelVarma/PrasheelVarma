@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/prasheel_brand.png" width="150" alt="Prasheel Logo"/>
+  <img src="./assets/prasheel_brand.jpg"  alt="Prasheel Logo"  style="width:100%; height:300px; object-fit:cover;"/>
 </p>
 
 <h1 align="center">Prasheel Varma Datla</h1>
