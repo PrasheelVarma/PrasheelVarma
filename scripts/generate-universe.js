@@ -5,7 +5,7 @@ const HEIGHT = 500;
 const CENTER_X = WIDTH / 2;
 const CENTER_Y = HEIGHT / 2;
 
-const USERNAME = process.env.GITHUB_ACTOR;
+const USERNAME = process.env.GITHUB_REPOSITORY_OWNER;
 const TOKEN = process.env.GH_TOKEN;
 
 if (!TOKEN) {
