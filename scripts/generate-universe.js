@@ -59,8 +59,7 @@ function generateSVG(weeks) {
   const maxWeek = Math.max(...weeklyTotals) || 1;
 
   let svg = `
-  <!-- Generated at ${new Date().toISOString()} -->
-<svg width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}" xmlns="http://www.w3.org/2000/svg">
+  <svg width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}" xmlns="http://www.w3.org/2000/svg">
 
 <style>
 @keyframes rotate {
@@ -68,51 +67,71 @@ function generateSVG(weeks) {
   to { transform: rotate(360deg); }
 }
 text {
-  font-family: Arial, sans-serif;
-  fill: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  fill: #a0a0a0;
 }
+.title { fill: #ffffff; font-weight: bold; }
+.highlight { fill: #FF7139; font-weight: bold; }
 </style>
 
-<rect width="100%" height="100%" fill="#0b0f1a"/>
+<rect width="100%" height="100%" fill="#121212" rx="15"/>
 
-<!-- Core -->
-<circle cx="${CENTER_X}" cy="${CENTER_Y}" r="45"
-        fill="cyan"
-        opacity="0.85">
-  <animate attributeName="r"
-           values="42;52;42"
-           dur="4s"
-           repeatCount="indefinite"/>
-</circle>
+<g style="transform-origin:${CENTER_X}px ${CENTER_Y}px;">
+  <circle cx="${CENTER_X}" cy="${CENTER_Y}" r="${Math.min(45 + (totalCommits/100), 55)}"
+          fill="#FFB000"
+          opacity="0.9">
+    <animate attributeName="r"
+             values="${Math.min(42 + (totalCommits/100), 52)};${Math.min(50 + (totalCommits/100), 60)};${Math.min(42 + (totalCommits/100), 52)}"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </circle>
+  <circle cx="${CENTER_X}" cy="${CENTER_Y}" r="${Math.min(60 + (totalCommits/100), 80)}" fill="#FF7139" opacity="0.15" />
+</g>
 `;
 
   weeklyTotals.forEach((count, index) => {
-    const orbit = 80 + index * 4;
-    const size = 3 + (count / maxWeek) * 10;
-    const speed = 40 + index * 1.2;
-    const hue = 180 + (count / maxWeek) * 120;
+    const orbit = 85 + index * 3.5; // Tighter orbits to fit all weeks
+    const size = count === 0 ? 1.5 : 2 + (count / maxWeek) * 8; // Zero commit weeks are tiny, active weeks are large
+    const speed = 50 + index * 1.5; // Outer planets move slightly slower visually
+    
+    // Color mapping: 0 commits = dim gray. Active = bright yellow/orange
+    const fill = count === 0 ? "#333333" : `hsl(${45 - (count / maxWeek) * 35}, 100%, 60%)`; 
+    
+    // Fixes the "straight line" issue by giving each planet a random starting point on its orbit ring
+    const startAngle = Math.random() * 360; 
+
+    // Add faint orbit path lines every 4 weeks to give it structure
+    if (index % 4 === 0) {
+        svg += `<circle cx="${CENTER_X}" cy="${CENTER_Y}" r="${orbit}" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>`;
+    }
 
     svg += `
   <g style="transform-origin:${CENTER_X}px ${CENTER_Y}px;
+            transform: rotate(${startAngle}deg);
             animation: rotate ${speed}s linear infinite;">
     <circle cx="${CENTER_X + orbit}"
             cy="${CENTER_Y}"
             r="${size}"
-            fill="hsl(${hue}, 80%, 60%)"
-            opacity="0.8"/>
+            fill="${fill}"
+            opacity="0.9">
+      <title>Week ${index + 1}: ${count} commits</title> 
+    </circle>
   </g>
 `;
   });
 
   svg += `
-  <!-- Stats -->
-  <text x="${CENTER_X}" y="190" font-size="20" text-anchor="middle">
-    Contribution Universe
-  </text>
+  <g transform="translate(30, 40)">
+    <text class="title" x="0" y="0" font-size="22">Contribution Universe</text>
+    <text x="0" y="25" font-size="14">Total Year Commits: <tspan class="highlight">${totalCommits}</tspan></text>
+  </g>
 
-  <text x="300" y="230" font-size="14">
-    Total Commits (Past Year): ${totalCommits}
-  </text>
+  <g transform="translate(30, ${HEIGHT - 80})">
+    <text class="title" x="0" y="0" font-size="14">Data Legend</text>
+    <text x="0" y="22" font-size="12">☀️ Core Size = Total Annual Impact</text>
+    <text x="0" y="42" font-size="12">🪐 Planet Size/Color = Weekly Intensity</text>
+    <text x="0" y="62" font-size="12">🌌 Orbit Distance = Time (Outer = Most Recent Week)</text>
+  </g>
 
 </svg>
 `;
