@@ -17,19 +17,19 @@ text {
 <rect width="100%" height="100%" fill="#121212" rx="15"/>
 
 <g style="transform-origin:450px 250px;">
-  <circle cx="450" cy="250" r="47.55"
+  <circle cx="450" cy="250" r="47.58"
           fill="#FFB000"
           opacity="0.9">
     <animate attributeName="r"
-             values="44.55;52.55;44.55"
+             values="44.58;52.58;44.58"
              dur="4s"
              repeatCount="indefinite"/>
   </circle>
-  <circle cx="450" cy="250" r="62.55" fill="#FF7139" opacity="0.15" />
+  <circle cx="450" cy="250" r="62.58" fill="#FF7139" opacity="0.15" />
 </g>
 <circle cx="450" cy="250" r="85" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(350.5606284184369deg);
+            transform: rotate(58.35921076037954deg);
             animation: rotate 50s linear infinite;">
     <circle cx="535"
             cy="250"
@@ -41,7 +41,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(203.61297446659478deg);
+            transform: rotate(322.9233279547568deg);
             animation: rotate 51.5s linear infinite;">
     <circle cx="538.5"
             cy="250"
@@ -53,7 +53,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(285.07258290159183deg);
+            transform: rotate(351.921066856206deg);
             animation: rotate 53s linear infinite;">
     <circle cx="542"
             cy="250"
@@ -65,7 +65,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(163.0930779456964deg);
+            transform: rotate(323.58105081609943deg);
             animation: rotate 54.5s linear infinite;">
     <circle cx="545.5"
             cy="250"
@@ -77,7 +77,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="99" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(335.1960614249313deg);
+            transform: rotate(181.09998943619195deg);
             animation: rotate 56s linear infinite;">
     <circle cx="549"
             cy="250"
@@ -89,7 +89,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(280.16932099207327deg);
+            transform: rotate(258.7146728213421deg);
             animation: rotate 57.5s linear infinite;">
     <circle cx="552.5"
             cy="250"
@@ -101,7 +101,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(304.91862534190807deg);
+            transform: rotate(81.07305294498835deg);
             animation: rotate 59s linear infinite;">
     <circle cx="556"
             cy="250"
@@ -113,7 +113,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(209.85163631869497deg);
+            transform: rotate(349.6434315836973deg);
             animation: rotate 60.5s linear infinite;">
     <circle cx="559.5"
             cy="250"
@@ -125,7 +125,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="113" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(199.80748124101314deg);
+            transform: rotate(208.35508343965782deg);
             animation: rotate 62s linear infinite;">
     <circle cx="563"
             cy="250"
@@ -137,7 +137,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(49.702157903508294deg);
+            transform: rotate(355.9436660689178deg);
             animation: rotate 63.5s linear infinite;">
     <circle cx="566.5"
             cy="250"
@@ -149,7 +149,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(131.86756351571788deg);
+            transform: rotate(222.35023350401173deg);
             animation: rotate 65s linear infinite;">
     <circle cx="570"
             cy="250"
@@ -161,7 +161,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(357.1146517789299deg);
+            transform: rotate(213.03279683749352deg);
             animation: rotate 66.5s linear infinite;">
     <circle cx="573.5"
             cy="250"
@@ -173,7 +173,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="127" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(289.73987520117726deg);
+            transform: rotate(359.69079337790765deg);
             animation: rotate 68s linear infinite;">
     <circle cx="577"
             cy="250"
@@ -185,7 +185,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(284.6379078587196deg);
+            transform: rotate(41.525936707144744deg);
             animation: rotate 69.5s linear infinite;">
     <circle cx="580.5"
             cy="250"
@@ -197,7 +197,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(82.61921502044225deg);
+            transform: rotate(15.007706588254859deg);
             animation: rotate 71s linear infinite;">
     <circle cx="584"
             cy="250"
@@ -209,7 +209,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(75.7060906552559deg);
+            transform: rotate(173.8646689206615deg);
             animation: rotate 72.5s linear infinite;">
     <circle cx="587.5"
             cy="250"
@@ -221,7 +221,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="141" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(103.02044140336042deg);
+            transform: rotate(271.82307337260465deg);
             animation: rotate 74s linear infinite;">
     <circle cx="591"
             cy="250"
@@ -233,7 +233,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(248.47502792933733deg);
+            transform: rotate(49.718052880220974deg);
             animation: rotate 75.5s linear infinite;">
     <circle cx="594.5"
             cy="250"
@@ -245,7 +245,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(293.0989335209972deg);
+            transform: rotate(347.56167767435875deg);
             animation: rotate 77s linear infinite;">
     <circle cx="598"
             cy="250"
@@ -257,7 +257,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(245.5367004962546deg);
+            transform: rotate(194.51038031970046deg);
             animation: rotate 78.5s linear infinite;">
     <circle cx="601.5"
             cy="250"
@@ -269,7 +269,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="155" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(179.8929264015326deg);
+            transform: rotate(150.68354503899204deg);
             animation: rotate 80s linear infinite;">
     <circle cx="605"
             cy="250"
@@ -281,7 +281,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(151.50046619085018deg);
+            transform: rotate(250.2240649867716deg);
             animation: rotate 81.5s linear infinite;">
     <circle cx="608.5"
             cy="250"
@@ -293,7 +293,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(28.973608151304475deg);
+            transform: rotate(269.7766855008425deg);
             animation: rotate 83s linear infinite;">
     <circle cx="612"
             cy="250"
@@ -305,7 +305,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(166.42596403642256deg);
+            transform: rotate(345.4295961643737deg);
             animation: rotate 84.5s linear infinite;">
     <circle cx="615.5"
             cy="250"
@@ -317,7 +317,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="169" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(84.07555165546358deg);
+            transform: rotate(128.56583405012964deg);
             animation: rotate 86s linear infinite;">
     <circle cx="619"
             cy="250"
@@ -329,7 +329,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(352.97637662089903deg);
+            transform: rotate(11.905860239083141deg);
             animation: rotate 87.5s linear infinite;">
     <circle cx="622.5"
             cy="250"
@@ -341,7 +341,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(324.7008053883985deg);
+            transform: rotate(218.33759805418336deg);
             animation: rotate 89s linear infinite;">
     <circle cx="626"
             cy="250"
@@ -353,7 +353,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(174.90102975789296deg);
+            transform: rotate(28.885268079021003deg);
             animation: rotate 90.5s linear infinite;">
     <circle cx="629.5"
             cy="250"
@@ -365,7 +365,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="183" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(180.2509304757938deg);
+            transform: rotate(3.6729334296869deg);
             animation: rotate 92s linear infinite;">
     <circle cx="633"
             cy="250"
@@ -377,7 +377,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(330.4993525743722deg);
+            transform: rotate(156.1299050147668deg);
             animation: rotate 93.5s linear infinite;">
     <circle cx="636.5"
             cy="250"
@@ -389,7 +389,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(246.31788678517466deg);
+            transform: rotate(248.54167830931274deg);
             animation: rotate 95s linear infinite;">
     <circle cx="640"
             cy="250"
@@ -401,7 +401,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(130.02744606183822deg);
+            transform: rotate(24.30303705029761deg);
             animation: rotate 96.5s linear infinite;">
     <circle cx="643.5"
             cy="250"
@@ -413,7 +413,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="197" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(103.0137660187492deg);
+            transform: rotate(190.5453794238534deg);
             animation: rotate 98s linear infinite;">
     <circle cx="647"
             cy="250"
@@ -425,7 +425,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(154.05623552514697deg);
+            transform: rotate(279.25784032264306deg);
             animation: rotate 99.5s linear infinite;">
     <circle cx="650.5"
             cy="250"
@@ -437,7 +437,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(258.04767216889945deg);
+            transform: rotate(93.02673403611533deg);
             animation: rotate 101s linear infinite;">
     <circle cx="654"
             cy="250"
@@ -449,7 +449,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(207.03522002053538deg);
+            transform: rotate(59.79651033790367deg);
             animation: rotate 102.5s linear infinite;">
     <circle cx="657.5"
             cy="250"
@@ -461,7 +461,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="211" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(290.5574332811849deg);
+            transform: rotate(297.3607521232111deg);
             animation: rotate 104s linear infinite;">
     <circle cx="661"
             cy="250"
@@ -473,7 +473,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(233.67361947819256deg);
+            transform: rotate(156.20157863883264deg);
             animation: rotate 105.5s linear infinite;">
     <circle cx="664.5"
             cy="250"
@@ -485,7 +485,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(283.53917437994414deg);
+            transform: rotate(21.01206912237375deg);
             animation: rotate 107s linear infinite;">
     <circle cx="668"
             cy="250"
@@ -497,7 +497,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(212.7807557389179deg);
+            transform: rotate(8.048317566884275deg);
             animation: rotate 108.5s linear infinite;">
     <circle cx="671.5"
             cy="250"
@@ -509,7 +509,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="225" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(222.480086231166deg);
+            transform: rotate(292.3280711831642deg);
             animation: rotate 110s linear infinite;">
     <circle cx="675"
             cy="250"
@@ -521,7 +521,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(167.64984340821758deg);
+            transform: rotate(350.1223982801707deg);
             animation: rotate 111.5s linear infinite;">
     <circle cx="678.5"
             cy="250"
@@ -533,7 +533,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(215.95912913019646deg);
+            transform: rotate(158.96265250958587deg);
             animation: rotate 113s linear infinite;">
     <circle cx="682"
             cy="250"
@@ -545,7 +545,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(172.7458725874647deg);
+            transform: rotate(59.301480103390965deg);
             animation: rotate 114.5s linear infinite;">
     <circle cx="685.5"
             cy="250"
@@ -557,7 +557,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="239" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(32.25401228290433deg);
+            transform: rotate(211.33372889308475deg);
             animation: rotate 116s linear infinite;">
     <circle cx="689"
             cy="250"
@@ -569,7 +569,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(87.68408725905607deg);
+            transform: rotate(225.88762288605278deg);
             animation: rotate 117.5s linear infinite;">
     <circle cx="692.5"
             cy="250"
@@ -581,7 +581,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(139.0888148040994deg);
+            transform: rotate(93.28905155378736deg);
             animation: rotate 119s linear infinite;">
     <circle cx="696"
             cy="250"
@@ -593,7 +593,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(63.17312216970238deg);
+            transform: rotate(86.11542638707817deg);
             animation: rotate 120.5s linear infinite;">
     <circle cx="699.5"
             cy="250"
@@ -605,7 +605,7 @@ text {
   </g>
 <circle cx="450" cy="250" r="253" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(298.7387153093211deg);
+            transform: rotate(289.66049326781894deg);
             animation: rotate 122s linear infinite;">
     <circle cx="703"
             cy="250"
@@ -617,7 +617,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(270.7449339356641deg);
+            transform: rotate(145.5480161591534deg);
             animation: rotate 123.5s linear infinite;">
     <circle cx="706.5"
             cy="250"
@@ -629,7 +629,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(182.9018321397454deg);
+            transform: rotate(234.97065292321477deg);
             animation: rotate 125s linear infinite;">
     <circle cx="710"
             cy="250"
@@ -641,7 +641,7 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(97.93552042555403deg);
+            transform: rotate(141.05679891366572deg);
             animation: rotate 126.5s linear infinite;">
     <circle cx="713.5"
             cy="250"
@@ -653,20 +653,20 @@ text {
   </g>
 <circle cx="450" cy="250" r="267" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(109.6317761447124deg);
+            transform: rotate(136.09007717314813deg);
             animation: rotate 128s linear infinite;">
     <circle cx="717"
             cy="250"
-            r="2.6956521739130435"
-            fill="hsl(41.95652173913044, 100%, 60%)"
+            r="3.7391304347826084"
+            fill="hsl(37.391304347826086, 100%, 60%)"
             opacity="0.9">
-      <title>Week 53: 2 commits</title> 
+      <title>Week 53: 5 commits</title> 
     </circle>
   </g>
 
   <g transform="translate(30, 40)">
     <text class="title" x="0" y="0" font-size="22">Contribution Universe</text>
-    <text x="0" y="25" font-size="14">Total Year Commits: <tspan class="highlight">255</tspan></text>
+    <text x="0" y="25" font-size="14">Total Year Commits: <tspan class="highlight">258</tspan></text>
   </g>
 
   <g transform="translate(30, 420)">
