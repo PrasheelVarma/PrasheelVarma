@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/prasheel_brand.jpg"  alt="Prasheel Logo"  style="width:100%; max-height:300px; object-fit:cover;""/>
+  <img src="./assets/prasheel_brand.jpg"  alt="Prasheel Logo"  style="width:100%; max-height:300px; object-fit:cover;"/>
 </p>
 
 <h1 align="center">Prasheel Varma Datla</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=4200&pause=900&center=true&vCenter=true&width=650&lines=Life+gives+three+choices:+Accept,+Change,+or+Leave.;Magic+fades+when+logic+is+revealed.;Exploring.+Experimenting.+Enhancing.;Technology+%E2%80%A2+Philosophy+%E2%80%A2+Troubleshooting.;Learning,+evolving,+and+striving+to+improve+every+day." />
-
+</p>
 # 💫 About Me:
 🌱 Discovery Phase: Constantly experimenting, learning, and reshaping ideas.<br><br>🔧 Strengths: Troubleshooting, implementation, and backend integration.<br><br>🧩 Philosophy: Magic fades when logic is revealed.<br><br>✨ Identity: Reshapel — decode it to know me.<br><br>⚡ I don’t just use technology—I honor it.
 
@@ -111,7 +111,7 @@
 # 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasheelvarma&theme=gruvbox" alt="Profile Details" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=prasheelvarma&theme=gruvbox&hide_border=false" alt=Streak"/>
+    <img src="https://streak-stats.demolab.com?user=prasheelvarma&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
 </div>
 
 # 📊 GitHub Insights
@@ -124,18 +124,13 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=prasheelvarma&show_icons=true&theme=gruvbox&hide_border=false" height="165" alt="GitHub Stats" />
 </div>
 
-# 📈 Contribution Graph ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasheelvarma&theme=merko)
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prasheelvarma&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 # 🌌 Universe
 
 <img src="https://raw.githubusercontent.com/prasheelvarma/prasheelvarma/main/assets/universe.svg" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prasheelvarma&icon=8&color=0)](https://visitcount.itsvg.in)
+![](https://hits.sh/github.com/prasheelvarma.svg?style=flat-square&label=Profile%20Views)
 
 
