@@ -17,79 +17,79 @@ text {
 <rect width="100%" height="100%" fill="#121212" rx="15"/>
 
 <g style="transform-origin:450px 250px;">
-  <circle cx="450" cy="250" r="50.4"
+  <circle cx="450" cy="250" r="50.33"
           fill="#FFB000"
           opacity="0.9">
     <animate attributeName="r"
-             values="47.4;55.4;47.4"
+             values="47.33;55.33;47.33"
              dur="4s"
              repeatCount="indefinite"/>
   </circle>
-  <circle cx="450" cy="250" r="65.4" fill="#FF7139" opacity="0.15" />
+  <circle cx="450" cy="250" r="65.33" fill="#FF7139" opacity="0.15" />
 </g>
 <circle cx="450" cy="250" r="85" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(75.43934900498192deg);
+            transform: rotate(156.62296238034799deg);
             animation: rotate 50s linear infinite;">
     <circle cx="535"
-            cy="250"
-            r="3.6470588235294117"
-            fill="hsl(37.794117647058826, 100%, 60%)"
-            opacity="0.9">
-      <title>Week 1: 7 commits</title> 
-    </circle>
-  </g>
-
-  <g style="transform-origin:450px 250px;
-            transform: rotate(341.2266150505547deg);
-            animation: rotate 51.5s linear infinite;">
-    <circle cx="538.5"
             cy="250"
             r="5.764705882352941"
             fill="hsl(28.529411764705884, 100%, 60%)"
             opacity="0.9">
-      <title>Week 2: 16 commits</title> 
+      <title>Week 1: 16 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(326.33386446956854deg);
-            animation: rotate 53s linear infinite;">
-    <circle cx="542"
+            transform: rotate(143.30627539170806deg);
+            animation: rotate 51.5s linear infinite;">
+    <circle cx="538.5"
             cy="250"
             r="1.5"
             fill="#333333"
             opacity="0.9">
-      <title>Week 3: 0 commits</title> 
+      <title>Week 2: 0 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(290.9163306684889deg);
-            animation: rotate 54.5s linear infinite;">
-    <circle cx="545.5"
+            transform: rotate(79.13839238279616deg);
+            animation: rotate 53s linear infinite;">
+    <circle cx="542"
             cy="250"
             r="3.4117647058823533"
             fill="hsl(38.8235294117647, 100%, 60%)"
             opacity="0.9">
-      <title>Week 4: 6 commits</title> 
-    </circle>
-  </g>
-<circle cx="450" cy="250" r="99" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
-  <g style="transform-origin:450px 250px;
-            transform: rotate(153.2727651975489deg);
-            animation: rotate 56s linear infinite;">
-    <circle cx="549"
-            cy="250"
-            r="2.4705882352941178"
-            fill="hsl(42.94117647058823, 100%, 60%)"
-            opacity="0.9">
-      <title>Week 5: 2 commits</title> 
+      <title>Week 3: 6 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(51.32037984840593deg);
+            transform: rotate(52.90395367331078deg);
+            animation: rotate 54.5s linear infinite;">
+    <circle cx="545.5"
+            cy="250"
+            r="2.4705882352941178"
+            fill="hsl(42.94117647058823, 100%, 60%)"
+            opacity="0.9">
+      <title>Week 4: 2 commits</title> 
+    </circle>
+  </g>
+<circle cx="450" cy="250" r="99" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+  <g style="transform-origin:450px 250px;
+            transform: rotate(336.7337442949116deg);
+            animation: rotate 56s linear infinite;">
+    <circle cx="549"
+            cy="250"
+            r="1.5"
+            fill="#333333"
+            opacity="0.9">
+      <title>Week 5: 0 commits</title> 
+    </circle>
+  </g>
+
+  <g style="transform-origin:450px 250px;
+            transform: rotate(118.79519259688732deg);
             animation: rotate 57.5s linear infinite;">
     <circle cx="552.5"
             cy="250"
@@ -101,31 +101,31 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(138.0044245664577deg);
+            transform: rotate(75.22924903781552deg);
             animation: rotate 59s linear infinite;">
     <circle cx="556"
-            cy="250"
-            r="1.5"
-            fill="#333333"
-            opacity="0.9">
-      <title>Week 7: 0 commits</title> 
-    </circle>
-  </g>
-
-  <g style="transform-origin:450px 250px;
-            transform: rotate(271.6505039286717deg);
-            animation: rotate 60.5s linear infinite;">
-    <circle cx="559.5"
             cy="250"
             r="2.235294117647059"
             fill="hsl(43.970588235294116, 100%, 60%)"
             opacity="0.9">
-      <title>Week 8: 1 commits</title> 
+      <title>Week 7: 1 commits</title> 
+    </circle>
+  </g>
+
+  <g style="transform-origin:450px 250px;
+            transform: rotate(177.68802691834568deg);
+            animation: rotate 60.5s linear infinite;">
+    <circle cx="559.5"
+            cy="250"
+            r="1.5"
+            fill="#333333"
+            opacity="0.9">
+      <title>Week 8: 0 commits</title> 
     </circle>
   </g>
 <circle cx="450" cy="250" r="113" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(100.69741743174578deg);
+            transform: rotate(145.5595854269866deg);
             animation: rotate 62s linear infinite;">
     <circle cx="563"
             cy="250"
@@ -137,31 +137,31 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(245.2772924254886deg);
+            transform: rotate(67.76316392555621deg);
             animation: rotate 63.5s linear infinite;">
     <circle cx="566.5"
-            cy="250"
-            r="1.5"
-            fill="#333333"
-            opacity="0.9">
-      <title>Week 10: 0 commits</title> 
-    </circle>
-  </g>
-
-  <g style="transform-origin:450px 250px;
-            transform: rotate(247.96435905234537deg);
-            animation: rotate 65s linear infinite;">
-    <circle cx="570"
             cy="250"
             r="5.529411764705882"
             fill="hsl(29.558823529411764, 100%, 60%)"
             opacity="0.9">
-      <title>Week 11: 15 commits</title> 
+      <title>Week 10: 15 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(110.61834732624247deg);
+            transform: rotate(63.5588899179044deg);
+            animation: rotate 65s linear infinite;">
+    <circle cx="570"
+            cy="250"
+            r="1.5"
+            fill="#333333"
+            opacity="0.9">
+      <title>Week 11: 0 commits</title> 
+    </circle>
+  </g>
+
+  <g style="transform-origin:450px 250px;
+            transform: rotate(74.35560453513914deg);
             animation: rotate 66.5s linear infinite;">
     <circle cx="573.5"
             cy="250"
@@ -173,139 +173,139 @@ text {
   </g>
 <circle cx="450" cy="250" r="127" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(245.6507483667271deg);
+            transform: rotate(226.30126720654422deg);
             animation: rotate 68s linear infinite;">
     <circle cx="577"
-            cy="250"
-            r="1.5"
-            fill="#333333"
-            opacity="0.9">
-      <title>Week 13: 0 commits</title> 
-    </circle>
-  </g>
-
-  <g style="transform-origin:450px 250px;
-            transform: rotate(57.351627634308066deg);
-            animation: rotate 69.5s linear infinite;">
-    <circle cx="580.5"
             cy="250"
             r="2.4705882352941178"
             fill="hsl(42.94117647058823, 100%, 60%)"
             opacity="0.9">
-      <title>Week 14: 2 commits</title> 
+      <title>Week 13: 2 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(23.760963875327015deg);
-            animation: rotate 71s linear infinite;">
-    <circle cx="584"
+            transform: rotate(170.8716027813572deg);
+            animation: rotate 69.5s linear infinite;">
+    <circle cx="580.5"
             cy="250"
             r="3.8823529411764706"
             fill="hsl(36.76470588235294, 100%, 60%)"
             opacity="0.9">
-      <title>Week 15: 8 commits</title> 
+      <title>Week 14: 8 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(77.28216897058422deg);
-            animation: rotate 72.5s linear infinite;">
-    <circle cx="587.5"
+            transform: rotate(266.68772479819637deg);
+            animation: rotate 71s linear infinite;">
+    <circle cx="584"
             cy="250"
             r="4.588235294117647"
             fill="hsl(33.67647058823529, 100%, 60%)"
             opacity="0.9">
-      <title>Week 16: 11 commits</title> 
+      <title>Week 15: 11 commits</title> 
     </circle>
   </g>
-<circle cx="450" cy="250" r="141" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+
   <g style="transform-origin:450px 250px;
-            transform: rotate(317.9899878376436deg);
-            animation: rotate 74s linear infinite;">
-    <circle cx="591"
+            transform: rotate(304.5784426153135deg);
+            animation: rotate 72.5s linear infinite;">
+    <circle cx="587.5"
             cy="250"
             r="6.705882352941177"
             fill="hsl(24.41176470588235, 100%, 60%)"
             opacity="0.9">
-      <title>Week 17: 20 commits</title> 
+      <title>Week 16: 20 commits</title> 
     </circle>
   </g>
-
+<circle cx="450" cy="250" r="141" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(243.4974779480617deg);
-            animation: rotate 75.5s linear infinite;">
-    <circle cx="594.5"
+            transform: rotate(92.95442760890653deg);
+            animation: rotate 74s linear infinite;">
+    <circle cx="591"
             cy="250"
             r="5.294117647058823"
             fill="hsl(30.58823529411765, 100%, 60%)"
             opacity="0.9">
-      <title>Week 18: 14 commits</title> 
+      <title>Week 17: 14 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(280.9534349891299deg);
-            animation: rotate 77s linear infinite;">
-    <circle cx="598"
+            transform: rotate(337.32162058056815deg);
+            animation: rotate 75.5s linear infinite;">
+    <circle cx="594.5"
             cy="250"
             r="3.4117647058823533"
             fill="hsl(38.8235294117647, 100%, 60%)"
             opacity="0.9">
-      <title>Week 19: 6 commits</title> 
+      <title>Week 18: 6 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(299.7950827849026deg);
-            animation: rotate 78.5s linear infinite;">
-    <circle cx="601.5"
+            transform: rotate(203.4329040521976deg);
+            animation: rotate 77s linear infinite;">
+    <circle cx="598"
             cy="250"
             r="7.411764705882353"
             fill="hsl(21.323529411764703, 100%, 60%)"
             opacity="0.9">
-      <title>Week 20: 23 commits</title> 
+      <title>Week 19: 23 commits</title> 
     </circle>
   </g>
-<circle cx="450" cy="250" r="155" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+
   <g style="transform-origin:450px 250px;
-            transform: rotate(77.81681215482838deg);
-            animation: rotate 80s linear infinite;">
-    <circle cx="605"
+            transform: rotate(254.56720407994774deg);
+            animation: rotate 78.5s linear infinite;">
+    <circle cx="601.5"
             cy="250"
             r="7.176470588235294"
             fill="hsl(22.352941176470587, 100%, 60%)"
             opacity="0.9">
-      <title>Week 21: 22 commits</title> 
+      <title>Week 20: 22 commits</title> 
     </circle>
   </g>
-
+<circle cx="450" cy="250" r="155" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(34.30257696854816deg);
-            animation: rotate 81.5s linear infinite;">
-    <circle cx="608.5"
+            transform: rotate(274.2801576066562deg);
+            animation: rotate 80s linear infinite;">
+    <circle cx="605"
             cy="250"
             r="4.352941176470589"
             fill="hsl(34.705882352941174, 100%, 60%)"
             opacity="0.9">
-      <title>Week 22: 10 commits</title> 
+      <title>Week 21: 10 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(12.046000449202454deg);
-            animation: rotate 83s linear infinite;">
-    <circle cx="612"
+            transform: rotate(282.19974852496097deg);
+            animation: rotate 81.5s linear infinite;">
+    <circle cx="608.5"
             cy="250"
             r="6.235294117647059"
             fill="hsl(26.470588235294116, 100%, 60%)"
             opacity="0.9">
-      <title>Week 23: 18 commits</title> 
+      <title>Week 22: 18 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(302.0942304910587deg);
+            transform: rotate(238.88185363723568deg);
+            animation: rotate 83s linear infinite;">
+    <circle cx="612"
+            cy="250"
+            r="2.9411764705882355"
+            fill="hsl(40.88235294117647, 100%, 60%)"
+            opacity="0.9">
+      <title>Week 23: 4 commits</title> 
+    </circle>
+  </g>
+
+  <g style="transform-origin:450px 250px;
+            transform: rotate(236.0531377081435deg);
             animation: rotate 84.5s linear infinite;">
     <circle cx="615.5"
             cy="250"
@@ -317,211 +317,211 @@ text {
   </g>
 <circle cx="450" cy="250" r="169" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(151.25086970977563deg);
+            transform: rotate(279.85060723632614deg);
             animation: rotate 86s linear infinite;">
     <circle cx="619"
-            cy="250"
-            r="2.9411764705882355"
-            fill="hsl(40.88235294117647, 100%, 60%)"
-            opacity="0.9">
-      <title>Week 25: 4 commits</title> 
-    </circle>
-  </g>
-
-  <g style="transform-origin:450px 250px;
-            transform: rotate(33.536567663673225deg);
-            animation: rotate 87.5s linear infinite;">
-    <circle cx="622.5"
             cy="250"
             r="4.352941176470589"
             fill="hsl(34.705882352941174, 100%, 60%)"
             opacity="0.9">
-      <title>Week 26: 10 commits</title> 
+      <title>Week 25: 10 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(145.365047218983deg);
-            animation: rotate 89s linear infinite;">
-    <circle cx="626"
+            transform: rotate(26.292963138125636deg);
+            animation: rotate 87.5s linear infinite;">
+    <circle cx="622.5"
             cy="250"
             r="2.9411764705882355"
             fill="hsl(40.88235294117647, 100%, 60%)"
             opacity="0.9">
-      <title>Week 27: 4 commits</title> 
+      <title>Week 26: 4 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(80.76179789786832deg);
-            animation: rotate 90.5s linear infinite;">
-    <circle cx="629.5"
+            transform: rotate(306.3543197456469deg);
+            animation: rotate 89s linear infinite;">
+    <circle cx="626"
             cy="250"
             r="3.6470588235294117"
             fill="hsl(37.794117647058826, 100%, 60%)"
             opacity="0.9">
-      <title>Week 28: 7 commits</title> 
+      <title>Week 27: 7 commits</title> 
+    </circle>
+  </g>
+
+  <g style="transform-origin:450px 250px;
+            transform: rotate(204.38395582537055deg);
+            animation: rotate 90.5s linear infinite;">
+    <circle cx="629.5"
+            cy="250"
+            r="1.5"
+            fill="#333333"
+            opacity="0.9">
+      <title>Week 28: 0 commits</title> 
     </circle>
   </g>
 <circle cx="450" cy="250" r="183" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(344.28966526032804deg);
+            transform: rotate(241.6423082005904deg);
             animation: rotate 92s linear infinite;">
     <circle cx="633"
-            cy="250"
-            r="1.5"
-            fill="#333333"
-            opacity="0.9">
-      <title>Week 29: 0 commits</title> 
-    </circle>
-  </g>
-
-  <g style="transform-origin:450px 250px;
-            transform: rotate(154.14851012448293deg);
-            animation: rotate 93.5s linear infinite;">
-    <circle cx="636.5"
             cy="250"
             r="6"
             fill="hsl(27.5, 100%, 60%)"
             opacity="0.9">
-      <title>Week 30: 17 commits</title> 
+      <title>Week 29: 17 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(313.3434797167573deg);
-            animation: rotate 95s linear infinite;">
-    <circle cx="640"
+            transform: rotate(125.11858683645744deg);
+            animation: rotate 93.5s linear infinite;">
+    <circle cx="636.5"
             cy="250"
             r="3.1764705882352944"
             fill="hsl(39.85294117647059, 100%, 60%)"
             opacity="0.9">
-      <title>Week 31: 5 commits</title> 
+      <title>Week 30: 5 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(113.21256164945122deg);
-            animation: rotate 96.5s linear infinite;">
-    <circle cx="643.5"
+            transform: rotate(118.32269608095034deg);
+            animation: rotate 95s linear infinite;">
+    <circle cx="640"
             cy="250"
             r="6.9411764705882355"
             fill="hsl(23.38235294117647, 100%, 60%)"
             opacity="0.9">
-      <title>Week 32: 21 commits</title> 
+      <title>Week 31: 21 commits</title> 
     </circle>
   </g>
-<circle cx="450" cy="250" r="197" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+
   <g style="transform-origin:450px 250px;
-            transform: rotate(268.8988863773138deg);
-            animation: rotate 98s linear infinite;">
-    <circle cx="647"
+            transform: rotate(349.4487457318828deg);
+            animation: rotate 96.5s linear infinite;">
+    <circle cx="643.5"
             cy="250"
             r="5.764705882352941"
             fill="hsl(28.529411764705884, 100%, 60%)"
             opacity="0.9">
-      <title>Week 33: 16 commits</title> 
+      <title>Week 32: 16 commits</title> 
     </circle>
   </g>
-
+<circle cx="450" cy="250" r="197" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(339.2309097008574deg);
-            animation: rotate 99.5s linear infinite;">
-    <circle cx="650.5"
+            transform: rotate(273.41530739753796deg);
+            animation: rotate 98s linear infinite;">
+    <circle cx="647"
             cy="250"
             r="2.7058823529411766"
             fill="hsl(41.911764705882355, 100%, 60%)"
             opacity="0.9">
-      <title>Week 34: 3 commits</title> 
+      <title>Week 33: 3 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(306.84851270151813deg);
-            animation: rotate 101s linear infinite;">
-    <circle cx="654"
+            transform: rotate(121.68145569549873deg);
+            animation: rotate 99.5s linear infinite;">
+    <circle cx="650.5"
             cy="250"
             r="1.5"
             fill="#333333"
             opacity="0.9">
-      <title>Week 35: 0 commits</title> 
+      <title>Week 34: 0 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(345.95680604583487deg);
-            animation: rotate 102.5s linear infinite;">
-    <circle cx="657.5"
+            transform: rotate(225.6767837912083deg);
+            animation: rotate 101s linear infinite;">
+    <circle cx="654"
             cy="250"
             r="2.4705882352941178"
             fill="hsl(42.94117647058823, 100%, 60%)"
             opacity="0.9">
-      <title>Week 36: 2 commits</title> 
+      <title>Week 35: 2 commits</title> 
     </circle>
   </g>
-<circle cx="450" cy="250" r="211" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+
   <g style="transform-origin:450px 250px;
-            transform: rotate(136.72426561835022deg);
-            animation: rotate 104s linear infinite;">
-    <circle cx="661"
+            transform: rotate(336.21009784179887deg);
+            animation: rotate 102.5s linear infinite;">
+    <circle cx="657.5"
             cy="250"
             r="3.4117647058823533"
             fill="hsl(38.8235294117647, 100%, 60%)"
             opacity="0.9">
-      <title>Week 37: 6 commits</title> 
+      <title>Week 36: 6 commits</title> 
     </circle>
   </g>
-
+<circle cx="450" cy="250" r="211" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(269.5400401444705deg);
-            animation: rotate 105.5s linear infinite;">
-    <circle cx="664.5"
+            transform: rotate(155.6724557426833deg);
+            animation: rotate 104s linear infinite;">
+    <circle cx="661"
             cy="250"
             r="1.5"
             fill="#333333"
             opacity="0.9">
-      <title>Week 38: 0 commits</title> 
+      <title>Week 37: 0 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(323.61406323305647deg);
-            animation: rotate 107s linear infinite;">
-    <circle cx="668"
+            transform: rotate(4.719207787937156deg);
+            animation: rotate 105.5s linear infinite;">
+    <circle cx="664.5"
             cy="250"
             r="2.9411764705882355"
             fill="hsl(40.88235294117647, 100%, 60%)"
             opacity="0.9">
-      <title>Week 39: 4 commits</title> 
+      <title>Week 38: 4 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(36.30699283026476deg);
-            animation: rotate 108.5s linear infinite;">
-    <circle cx="671.5"
+            transform: rotate(96.0363934694598deg);
+            animation: rotate 107s linear infinite;">
+    <circle cx="668"
             cy="250"
             r="2.4705882352941178"
             fill="hsl(42.94117647058823, 100%, 60%)"
             opacity="0.9">
-      <title>Week 40: 2 commits</title> 
-    </circle>
-  </g>
-<circle cx="450" cy="250" r="225" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
-  <g style="transform-origin:450px 250px;
-            transform: rotate(211.89504482515719deg);
-            animation: rotate 110s linear infinite;">
-    <circle cx="675"
-            cy="250"
-            r="6.470588235294118"
-            fill="hsl(25.441176470588236, 100%, 60%)"
-            opacity="0.9">
-      <title>Week 41: 19 commits</title> 
+      <title>Week 39: 2 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(231.21732480320028deg);
+            transform: rotate(230.0471831997615deg);
+            animation: rotate 108.5s linear infinite;">
+    <circle cx="671.5"
+            cy="250"
+            r="6.470588235294118"
+            fill="hsl(25.441176470588236, 100%, 60%)"
+            opacity="0.9">
+      <title>Week 40: 19 commits</title> 
+    </circle>
+  </g>
+<circle cx="450" cy="250" r="225" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+  <g style="transform-origin:450px 250px;
+            transform: rotate(301.7107140241876deg);
+            animation: rotate 110s linear infinite;">
+    <circle cx="675"
+            cy="250"
+            r="7.176470588235294"
+            fill="hsl(22.352941176470587, 100%, 60%)"
+            opacity="0.9">
+      <title>Week 41: 22 commits</title> 
+    </circle>
+  </g>
+
+  <g style="transform-origin:450px 250px;
+            transform: rotate(51.29316263834062deg);
             animation: rotate 111.5s linear infinite;">
     <circle cx="678.5"
             cy="250"
@@ -533,140 +533,140 @@ text {
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(126.09619987914182deg);
+            transform: rotate(259.1856461866019deg);
             animation: rotate 113s linear infinite;">
     <circle cx="682"
-            cy="250"
-            r="7.176470588235294"
-            fill="hsl(22.352941176470587, 100%, 60%)"
-            opacity="0.9">
-      <title>Week 43: 22 commits</title> 
-    </circle>
-  </g>
-
-  <g style="transform-origin:450px 250px;
-            transform: rotate(203.42952178249274deg);
-            animation: rotate 114.5s linear infinite;">
-    <circle cx="685.5"
             cy="250"
             r="10"
             fill="hsl(10, 100%, 60%)"
             opacity="0.9">
-      <title>Week 44: 34 commits</title> 
+      <title>Week 43: 34 commits</title> 
     </circle>
   </g>
-<circle cx="450" cy="250" r="239" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+
   <g style="transform-origin:450px 250px;
-            transform: rotate(14.817885754907367deg);
-            animation: rotate 116s linear infinite;">
-    <circle cx="689"
+            transform: rotate(137.2620244901042deg);
+            animation: rotate 114.5s linear infinite;">
+    <circle cx="685.5"
             cy="250"
             r="7.176470588235294"
             fill="hsl(22.352941176470587, 100%, 60%)"
             opacity="0.9">
-      <title>Week 45: 22 commits</title> 
+      <title>Week 44: 22 commits</title> 
     </circle>
   </g>
-
+<circle cx="450" cy="250" r="239" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(235.5816896792475deg);
-            animation: rotate 117.5s linear infinite;">
-    <circle cx="692.5"
+            transform: rotate(135.36549818305338deg);
+            animation: rotate 116s linear infinite;">
+    <circle cx="689"
             cy="250"
             r="8.352941176470587"
             fill="hsl(17.205882352941178, 100%, 60%)"
             opacity="0.9">
-      <title>Week 46: 27 commits</title> 
+      <title>Week 45: 27 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(227.77400710994002deg);
-            animation: rotate 119s linear infinite;">
-    <circle cx="696"
+            transform: rotate(262.990882727863deg);
+            animation: rotate 117.5s linear infinite;">
+    <circle cx="692.5"
             cy="250"
             r="6.705882352941177"
             fill="hsl(24.41176470588235, 100%, 60%)"
             opacity="0.9">
-      <title>Week 47: 20 commits</title> 
+      <title>Week 46: 20 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(117.78430945661074deg);
-            animation: rotate 120.5s linear infinite;">
-    <circle cx="699.5"
+            transform: rotate(357.7650609366554deg);
+            animation: rotate 119s linear infinite;">
+    <circle cx="696"
             cy="250"
             r="6.235294117647059"
             fill="hsl(26.470588235294116, 100%, 60%)"
             opacity="0.9">
-      <title>Week 48: 18 commits</title> 
+      <title>Week 47: 18 commits</title> 
     </circle>
   </g>
-<circle cx="450" cy="250" r="253" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+
   <g style="transform-origin:450px 250px;
-            transform: rotate(208.9146595527316deg);
-            animation: rotate 122s linear infinite;">
-    <circle cx="703"
+            transform: rotate(136.80056224585135deg);
+            animation: rotate 120.5s linear infinite;">
+    <circle cx="699.5"
             cy="250"
             r="6.705882352941177"
             fill="hsl(24.41176470588235, 100%, 60%)"
             opacity="0.9">
-      <title>Week 49: 20 commits</title> 
+      <title>Week 48: 20 commits</title> 
     </circle>
   </g>
-
+<circle cx="450" cy="250" r="253" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
   <g style="transform-origin:450px 250px;
-            transform: rotate(335.649926530667deg);
-            animation: rotate 123.5s linear infinite;">
-    <circle cx="706.5"
+            transform: rotate(139.93543569140226deg);
+            animation: rotate 122s linear infinite;">
+    <circle cx="703"
             cy="250"
             r="5.0588235294117645"
             fill="hsl(31.61764705882353, 100%, 60%)"
             opacity="0.9">
-      <title>Week 50: 13 commits</title> 
+      <title>Week 49: 13 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(58.42843981570341deg);
-            animation: rotate 125s linear infinite;">
-    <circle cx="710"
+            transform: rotate(264.0968966728495deg);
+            animation: rotate 123.5s linear infinite;">
+    <circle cx="706.5"
             cy="250"
             r="5.529411764705882"
             fill="hsl(29.558823529411764, 100%, 60%)"
             opacity="0.9">
-      <title>Week 51: 15 commits</title> 
+      <title>Week 50: 15 commits</title> 
     </circle>
   </g>
 
   <g style="transform-origin:450px 250px;
-            transform: rotate(330.94928056196085deg);
-            animation: rotate 126.5s linear infinite;">
-    <circle cx="713.5"
+            transform: rotate(286.8185696299007deg);
+            animation: rotate 125s linear infinite;">
+    <circle cx="710"
             cy="250"
             r="3.8823529411764706"
             fill="hsl(36.76470588235294, 100%, 60%)"
             opacity="0.9">
-      <title>Week 52: 8 commits</title> 
+      <title>Week 51: 8 commits</title> 
     </circle>
   </g>
-<circle cx="450" cy="250" r="267" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+
   <g style="transform-origin:450px 250px;
-            transform: rotate(255.89580625782537deg);
-            animation: rotate 128s linear infinite;">
-    <circle cx="717"
+            transform: rotate(224.20168597325176deg);
+            animation: rotate 126.5s linear infinite;">
+    <circle cx="713.5"
             cy="250"
             r="5.294117647058823"
             fill="hsl(30.58823529411765, 100%, 60%)"
             opacity="0.9">
-      <title>Week 53: 14 commits</title> 
+      <title>Week 52: 14 commits</title> 
+    </circle>
+  </g>
+<circle cx="450" cy="250" r="267" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="0.5"/>
+  <g style="transform-origin:450px 250px;
+            transform: rotate(117.13490140338943deg);
+            animation: rotate 128s linear infinite;">
+    <circle cx="717"
+            cy="250"
+            r="1.5"
+            fill="#333333"
+            opacity="0.9">
+      <title>Week 53: 0 commits</title> 
     </circle>
   </g>
 
   <g transform="translate(30, 40)">
     <text class="title" x="0" y="0" font-size="22">Contribution Universe</text>
-    <text x="0" y="25" font-size="14">Total Year Commits: <tspan class="highlight">540</tspan></text>
+    <text x="0" y="25" font-size="14">Total Year Commits: <tspan class="highlight">533</tspan></text>
   </g>
 
   <g transform="translate(30, 420)">
