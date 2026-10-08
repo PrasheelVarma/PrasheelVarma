@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=4200&pause=900&center=true&vCenter=true&width=650&lines=Engineering+%E2%80%A2+Technologist+%E2%80%A2+Tech+Nerd;Exploring+%E2%80%A2+Experimenting+%E2%80%A2+Enhancing;Technology+%E2%80%A2+Philosophy+%E2%80%A2+Troubleshooting" />
 </p>
-# 💫 About Me
+💫 About Me
 
 Technology isn't just a field to me; it's a world I keep returning to.
 
